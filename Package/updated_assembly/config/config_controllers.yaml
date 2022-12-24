@@ -1,0 +1,21 @@
+controller_joint_names: ['', 'right_stubbleJ', 'front_right_wheelJ', 'left_stubbleJ', 'front_left_wheelJ', 'rear_right_wheelJ', 'rear_left_wheelJ', ]
+updated_assembly:  
+  joint_state_controller:
+    type: joint_state_controller/JointStateController
+    publish_rate: 50
+  right_stubbleJ_controller: 
+    type: effort_controllers/JointPositionController
+    joint: right_stubbleJ  
+    pid : {p: 100.0 , i: 5.0 , d: 10.0} 
+  left_stubbleJ_controller:  
+    type: effort_controllers/JointPositionController
+    joint: left_stubbleJ 
+    pid : {p: 100.0 , i: 5.0 , d: 10.0} 
+  rear_right_wheelJ_controller:  
+    type: velocity_controllers/JointVelocityController 
+    joint: rear_right_wheelJ  
+    pid : {p: 100.0 , i: 0.01 , d: 10.0} 
+  rear_left_wheelJ_controller:  
+    type: velocity_controllers/JointVelocityController 
+    joint: rear_left_wheelJ  
+    pid : {p: 100.0 , i: 0.01 , d: 10.0} 
