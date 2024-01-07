@@ -33,8 +33,11 @@
 
 ## Simulation Videos
 
-- [![TeleOP Video](https://img.youtube.com/vi/04WyU0NI-ak/0.jpg)](https://www.youtube.com/watch?v=04WyU0NI-ak)
-- [![Publisher-Subscriber Video](https://img.youtube.com/vi/1rl0F7T2MxY/0.jpg)](https://www.youtube.com/watch?v=1rl0F7T2MxY)
+### TeleOP Video
+ [![TeleOP Video](https://img.youtube.com/vi/04WyU0NI-ak/0.jpg)](https://www.youtube.com/watch?v=04WyU0NI-ak)
+
+### Publisher-Subscriber Video
+ [![Publisher-Subscriber Video](https://img.youtube.com/vi/1rl0F7T2MxY/0.jpg)](https://www.youtube.com/watch?v=1rl0F7T2MxY)
 
 ## Challenges Faced
 
