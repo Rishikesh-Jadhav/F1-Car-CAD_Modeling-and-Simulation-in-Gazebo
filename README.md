@@ -1,6 +1,6 @@
 # Formula1 Inspired CAD Modeling and Simulation using Gazebo
 
-![Formula1 Car](link-to-image)
+![Formula1 Car](Results/f1_car_cad_gazebo.png)
 
 ## Project Overview
 
